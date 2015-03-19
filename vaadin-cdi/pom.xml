@@ -29,12 +29,11 @@
 
 	<organization>
 		<name>Doctusoft Ltd</name>
-		<url>http://vaadin.com</url>
+		<url>http://www.doctusoft.com</url>
 	</organization>
 	<scm>
-		<url>https://github.com/vaadin/cdi</url>
-		<connection>https://github.com/Doctusoft/vaadin-cdi-ds.git</connection>
-		<developerConnection>https://github.com/Doctusoft/vaadin-cdi-ds.git</developerConnection>
+		<connection>https://github.com/Doctusoft/vaadin-cdi-ds</connection>
+		<tag>HEAD</tag>
 	</scm>
 
 	<developers>
